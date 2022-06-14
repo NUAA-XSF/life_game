@@ -1,0 +1,13 @@
+#N p44 gun
+x = 68,y = 60, rule = 23/3
+8b2o10b2o$7bo2bo8bo2bo$7b3o2b6o2b3o$10b2o6b2o$9bo10bo$9b2obo4bob2o$14b
+2o3$9b2o$9b2o$38b3o$40bo$30b2o7bo$30bo$28bobo$15bo12b2o$2o12b3o$2o11b
+o3bo26bo7b2o$13b2ob2o24b3o7b2o$41bo$41b2o$27b3o29b2o$29bo29bo$13b2ob2o10b
+o28bobo$2o11bo3bo39b2o$2o12b3o$15bo3$41b3o4b3o$41bo2bo2bo2bo$25b2o12b
+2o10b2o$9b2o14b2o12bo12bo$9b2o28bo3b2o2b2o3bo$40b3o6b3o2$14b2o9b2o38b2o$
+9b2obo4bob2o3bobo38bobo$9bo10bo3bobob2o32b2obobo$10b2o6b2o5bobobo32bob
+obo$7b3o2b6o2b3o4bo36bo$7bo2bo8bo2bo2bo2bo34bo2bo$8b2o10b2o6bo5bo7b2o4b
+2o7bo5bo$24bo3bo3b2ob2o5b3o2b3o5b2ob2o3bo3bo$24bo3bo5bo7b2o4b2o7bo5bo3b
+o$28bo34bo$25bo2bo34bo2bo$27bo36bo$25bobobo3b2o22b2o3bobobo$24bobob2o3b
+2o22b2o3b2obobo$24bobo38bobo$25b2o38b2o$41b2o6b2o$43bo4bo$41b3o4b3o3$
+41b2o6b2o$41b2o6b2o$!
